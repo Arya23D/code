@@ -8,11 +8,13 @@ practice code daily
 | ------- |
 | [0100-same-tree](https://github.com/Arya23D/code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Arya23D/code/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arya23D/code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Arya23D/code/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +24,7 @@ practice code daily
 | ------- |
 | [0100-same-tree](https://github.com/Arya23D/code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Arya23D/code/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
