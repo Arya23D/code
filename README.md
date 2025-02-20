@@ -69,6 +69,7 @@ practice code daily
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -79,6 +80,7 @@ practice code daily
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
