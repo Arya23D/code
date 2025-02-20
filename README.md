@@ -39,6 +39,7 @@ practice code daily
 | [0001-two-sum](https://github.com/Arya23D/code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -46,12 +47,14 @@ practice code daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arya23D/code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
@@ -70,6 +73,7 @@ practice code daily
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 ## Two Pointers
 |  |
@@ -79,4 +83,8 @@ practice code daily
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
