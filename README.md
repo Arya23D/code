@@ -35,6 +35,7 @@ practice code daily
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
@@ -63,4 +64,8 @@ practice code daily
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
