@@ -36,16 +36,19 @@ practice code daily
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
