@@ -41,6 +41,7 @@ practice code daily
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -85,6 +86,7 @@ practice code daily
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -98,4 +100,8 @@ practice code daily
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
