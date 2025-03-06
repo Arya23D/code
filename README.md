@@ -93,6 +93,7 @@ practice code daily
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arya23D/code/tree/master/0283-move-zeroes) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arya23D/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -117,6 +118,7 @@ practice code daily
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arya23D/code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Arya23D/code/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arya23D/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
