@@ -116,4 +116,9 @@ practice code daily
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arya23D/code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Arya23D/code/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arya23D/code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
