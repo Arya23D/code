@@ -70,6 +70,7 @@ practice code daily
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
@@ -105,6 +106,7 @@ practice code daily
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Arya23D/code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
@@ -120,6 +122,7 @@ practice code daily
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arya23D/code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Arya23D/code/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arya23D/code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
@@ -134,5 +137,6 @@ practice code daily
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Arya23D/code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
