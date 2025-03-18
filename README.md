@@ -48,6 +48,7 @@ practice code daily
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Arya23D/code/tree/master/0283-move-zeroes) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -123,6 +124,7 @@ practice code daily
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 ## Simulation
@@ -159,6 +161,7 @@ practice code daily
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Arya23D/code/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +180,7 @@ practice code daily
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -185,10 +189,12 @@ practice code daily
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 ## Line Sweep
 |  |
 | ------- |
@@ -197,4 +203,5 @@ practice code daily
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
