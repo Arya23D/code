@@ -59,6 +59,7 @@ practice code daily
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
+| [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ practice code daily
 | ------- |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
+| [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ practice code daily
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Arya23D/code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
+| [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -148,4 +151,12 @@ practice code daily
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Arya23D/code/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
