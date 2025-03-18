@@ -118,6 +118,7 @@ practice code daily
 | [0190-reverse-bits](https://github.com/Arya23D/code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Arya23D/code/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
@@ -127,6 +128,7 @@ practice code daily
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
+| [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 ## Linked List
 |  |
 | ------- |
