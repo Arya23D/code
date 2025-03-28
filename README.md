@@ -33,6 +33,7 @@ practice code daily
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Arya23D/code/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -140,6 +141,7 @@ practice code daily
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
@@ -227,4 +229,8 @@ practice code daily
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
