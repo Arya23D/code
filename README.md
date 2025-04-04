@@ -10,6 +10,7 @@ practice code daily
 | [0110-balanced-binary-tree](https://github.com/Arya23D/code/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Arya23D/code/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,10 +18,12 @@ practice code daily
 | [0110-balanced-binary-tree](https://github.com/Arya23D/code/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Arya23D/code/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arya23D/code/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -28,6 +31,7 @@ practice code daily
 | [0110-balanced-binary-tree](https://github.com/Arya23D/code/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Arya23D/code/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +77,7 @@ practice code daily
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
