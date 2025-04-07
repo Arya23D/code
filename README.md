@@ -40,6 +40,7 @@ practice code daily
 | [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Arya23D/code/tree/master/0416-partition-equal-subset-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arya23D/code/tree/master/2262-solving-questions-with-brainpower) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Arya23D/code/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -57,6 +58,7 @@ practice code daily
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Arya23D/code/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Arya23D/code/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
