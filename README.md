@@ -51,6 +51,7 @@ practice code daily
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@ practice code daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arya23D/code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
@@ -213,6 +215,7 @@ practice code daily
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Indexed Tree
 |  |
