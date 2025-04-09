@@ -74,6 +74,7 @@ practice code daily
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Arya23D/code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Arya23D/code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arya23D/code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arya23D/code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ practice code daily
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arya23D/code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arya23D/code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
