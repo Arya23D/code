@@ -44,6 +44,7 @@ practice code daily
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arya23D/code/tree/master/2262-solving-questions-with-brainpower) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Arya23D/code/tree/master/2526-longest-increasing-subsequence-ii) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ practice code daily
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Counting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ practice code daily
 | [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
 | ------- |
