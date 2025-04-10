@@ -39,6 +39,7 @@ practice code daily
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arya23D/code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arya23D/code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Arya23D/code/tree/master/0416-partition-equal-subset-sum) |
@@ -55,6 +56,7 @@ practice code daily
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Arya23D/code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arya23D/code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
