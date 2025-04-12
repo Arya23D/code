@@ -52,6 +52,7 @@ practice code daily
 | ------- |
 | [0001-two-sum](https://github.com/Arya23D/code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Arya23D/code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
@@ -170,6 +171,7 @@ practice code daily
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arya23D/code/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
@@ -228,6 +230,7 @@ practice code daily
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arya23D/code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Indexed Tree
