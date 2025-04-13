@@ -56,6 +56,7 @@ practice code daily
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Arya23D/code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arya23D/code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arya23D/code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ practice code daily
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arya23D/code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Arya23D/code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
@@ -136,6 +138,7 @@ practice code daily
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arya23D/code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Arya23D/code/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Arya23D/code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Arya23D/code/tree/master/0148-sort-list) |
