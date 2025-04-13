@@ -178,6 +178,7 @@ practice code daily
 | [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Arya23D/code/tree/master/2050-count-good-numbers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arya23D/code/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
@@ -199,6 +200,7 @@ practice code daily
 | [0021-merge-two-sorted-lists](https://github.com/Arya23D/code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Arya23D/code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arya23D/code/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Arya23D/code/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
