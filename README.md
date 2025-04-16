@@ -65,6 +65,7 @@ practice code daily
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Arya23D/code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Arya23D/code/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
@@ -149,6 +150,7 @@ practice code daily
 | [0189-rotate-array](https://github.com/Arya23D/code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Arya23D/code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arya23D/code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arya23D/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
@@ -227,6 +229,7 @@ practice code daily
 | ------- |
 | [0190-reverse-bits](https://github.com/Arya23D/code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Arya23D/code/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sliding Window
@@ -238,6 +241,7 @@ practice code daily
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arya23D/code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Arya23D/code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Matrix
