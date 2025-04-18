@@ -129,6 +129,7 @@ practice code daily
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Arya23D/code/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
