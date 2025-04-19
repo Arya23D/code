@@ -84,6 +84,7 @@ practice code daily
 | [2526-longest-increasing-subsequence-ii](https://github.com/Arya23D/code/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Arya23D/code/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Arya23D/code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Arya23D/code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arya23D/code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -114,6 +115,7 @@ practice code daily
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +157,7 @@ practice code daily
 | [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arya23D/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +249,7 @@ practice code daily
 | [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Arya23D/code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
 | ------- |
