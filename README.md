@@ -73,6 +73,7 @@ practice code daily
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Arya23D/code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Arya23D/code/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -200,6 +201,7 @@ practice code daily
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Arya23D/code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Arya23D/code/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Arya23D/code/tree/master/2050-count-good-numbers) |
