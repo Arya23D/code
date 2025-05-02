@@ -43,6 +43,7 @@ practice code daily
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arya23D/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Arya23D/code/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Arya23D/code/tree/master/0868-push-dominoes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arya23D/code/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Arya23D/code/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -142,6 +143,7 @@ practice code daily
 | ------- |
 | [0038-count-and-say](https://github.com/Arya23D/code/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
+| [0868-push-dominoes](https://github.com/Arya23D/code/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -164,6 +166,7 @@ practice code daily
 | [0234-palindrome-linked-list](https://github.com/Arya23D/code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arya23D/code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
+| [0868-push-dominoes](https://github.com/Arya23D/code/tree/master/0868-push-dominoes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arya23D/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
