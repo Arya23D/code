@@ -83,6 +83,7 @@ practice code daily
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arya23D/code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Arya23D/code/tree/master/2048-build-array-from-permutation) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Arya23D/code/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arya23D/code/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Arya23D/code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -114,6 +115,7 @@ practice code daily
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Arya23D/code/tree/master/1500-count-largest-group) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Arya23D/code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Arya23D/code/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -129,6 +131,7 @@ practice code daily
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
@@ -334,6 +337,7 @@ practice code daily
 | ------- |
 | [1656-count-good-triplets](https://github.com/Arya23D/code/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arya23D/code/tree/master/3548-find-the-count-of-good-integers) |
 ## Prefix Sum
 |  |
