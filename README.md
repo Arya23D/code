@@ -121,6 +121,7 @@ practice code daily
 | [2626-count-the-number-of-good-subarrays](https://github.com/Arya23D/code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Arya23D/code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Arya23D/code/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arya23D/code/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arya23D/code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arya23D/code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -141,6 +142,7 @@ practice code daily
 | [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arya23D/code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Backtracking
 |  |
@@ -158,6 +160,7 @@ practice code daily
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
 | ------- |
@@ -187,6 +190,7 @@ practice code daily
 | ------- |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +263,7 @@ practice code daily
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
 |  |
 | ------- |
