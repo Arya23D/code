@@ -125,6 +125,7 @@ practice code daily
 | [3548-find-the-count-of-good-integers](https://github.com/Arya23D/code/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arya23D/code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arya23D/code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arya23D/code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -161,12 +162,14 @@ practice code daily
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arya23D/code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arya23D/code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
