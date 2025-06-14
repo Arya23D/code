@@ -1,15 +1,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, int> mpp;
-        for (int i = 0; i < nums.size(); i++) { // alg variable nahi declare kiye size ke liye nums.size () function use kar liye
-            int a = nums[i];
-            int more = target - a;
-            if (mpp.find(more) != mpp.end()) {
-                return {mpp[more], i};
-            }
-            mpp[a] = i;
+        map<int,int>mpp ;
+        int a = nums.size();
+        for (int i =0 ; i<a ;i++)
+        {
+        int curr = nums[i] ;
+        int more = target - curr ;
+        if (mpp.find(more) != mpp.end())
+        {
+            return {mpp[more] , i};
         }
-        return {}; // return empty vector if no solution is found
+        mpp[curr]= i;
+        }
+        return {} ;  
     }
 };
