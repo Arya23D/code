@@ -129,6 +129,7 @@ practice code daily
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arya23D/code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arya23D/code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arya23D/code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arya23D/code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ practice code daily
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arya23D/code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arya23D/code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ practice code daily
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arya23D/code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arya23D/code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +241,7 @@ practice code daily
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Arya23D/code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arya23D/code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Arya23D/code/tree/master/3548-find-the-count-of-good-integers) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arya23D/code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
