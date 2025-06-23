@@ -5,18 +5,19 @@ public:
         int e = s.size() - 1;
 
         while (l <= e) {
-            if (!isalnum(s[l])) {
-                l++;
-            } else if (!isalnum(s[e])) {
-                e--;
-            } else {
-                char t1 = tolower(s[l]);
-                char t2 = tolower(s[e]);
-                if (t1 != t2) return false;
-                l++;
-                e--;
+            // Skip non-alphanumeric characters
+            while (l < e && !isalnum(s[l])) l++;
+            while (l < e && !isalnum(s[e])) e--;
+
+            // Compare lowercase versions
+            if (tolower(s[l]) != tolower(s[e])) {
+                return false;
             }
+
+            l++;
+            e--;
         }
+
         return true;
     }
 };
