@@ -90,6 +90,7 @@ practice code daily
 | [2262-solving-questions-with-brainpower](https://github.com/Arya23D/code/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Arya23D/code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Arya23D/code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arya23D/code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Arya23D/code/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
@@ -194,6 +195,7 @@ practice code daily
 | [0287-find-the-duplicate-number](https://github.com/Arya23D/code/tree/master/0287-find-the-duplicate-number) |
 | [0868-push-dominoes](https://github.com/Arya23D/code/tree/master/0868-push-dominoes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arya23D/code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arya23D/code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Arya23D/code/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
