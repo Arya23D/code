@@ -109,6 +109,7 @@ practice code daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arya23D/code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Arya23D/code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arya23D/code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
@@ -160,6 +161,7 @@ practice code daily
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Arya23D/code/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/Arya23D/code/tree/master/0868-push-dominoes) |
@@ -291,6 +293,7 @@ practice code daily
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Arya23D/code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Arya23D/code/tree/master/2856-count-complete-subarrays-in-an-array) |
