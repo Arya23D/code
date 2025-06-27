@@ -283,6 +283,7 @@ practice code daily
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arya23D/code/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Arya23D/code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
@@ -351,6 +352,7 @@ practice code daily
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arya23D/code/tree/master/0225-implement-stack-using-queues) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Arya23D/code/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Monotonic Queue
 |  |
@@ -398,4 +400,8 @@ practice code daily
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arya23D/code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arya23D/code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
