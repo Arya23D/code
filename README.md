@@ -79,6 +79,7 @@ practice code daily
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arya23D/code/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arya23D/code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arya23D/code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Arya23D/code/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Arya23D/code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -121,6 +122,7 @@ practice code daily
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arya23D/code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/Arya23D/code/tree/master/1500-count-largest-group) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
@@ -241,6 +243,7 @@ practice code daily
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Arya23D/code/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arya23D/code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arya23D/code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Arya23D/code/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -299,6 +302,7 @@ practice code daily
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arya23D/code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arya23D/code/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arya23D/code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Arya23D/code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Arya23D/code/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -379,6 +383,7 @@ practice code daily
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Arya23D/code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arya23D/code/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Arya23D/code/tree/master/1370-count-number-of-nice-subarrays) |
 | [2249-count-the-hidden-sequences](https://github.com/Arya23D/code/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Arya23D/code/tree/master/2915-count-of-interesting-subarrays) |
 ## Number Theory
