@@ -75,6 +75,7 @@ practice code daily
 | [0493-reverse-pairs](https://github.com/Arya23D/code/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/Arya23D/code/tree/master/0966-binary-subarrays-with-sum) |
 | [0968-beautiful-array](https://github.com/Arya23D/code/tree/master/0968-beautiful-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arya23D/code/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -116,6 +117,7 @@ practice code daily
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Arya23D/code/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arya23D/code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arya23D/code/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -295,6 +297,7 @@ practice code daily
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/Arya23D/code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arya23D/code/tree/master/1046-max-consecutive-ones-iii) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Arya23D/code/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -374,6 +377,7 @@ practice code daily
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Arya23D/code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arya23D/code/tree/master/1046-max-consecutive-ones-iii) |
 | [2249-count-the-hidden-sequences](https://github.com/Arya23D/code/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Arya23D/code/tree/master/2915-count-of-interesting-subarrays) |
