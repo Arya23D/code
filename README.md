@@ -88,6 +88,7 @@ practice code daily
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Arya23D/code/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arya23D/code/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arya23D/code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Arya23D/code/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arya23D/code/tree/master/2262-solving-questions-with-brainpower) |
@@ -125,6 +126,7 @@ practice code daily
 | [1370-count-number-of-nice-subarrays](https://github.com/Arya23D/code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/Arya23D/code/tree/master/1500-count-largest-group) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arya23D/code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -145,6 +147,7 @@ practice code daily
 | [0169-majority-element](https://github.com/Arya23D/code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arya23D/code/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Arya23D/code/tree/master/0368-largest-divisible-subset) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arya23D/code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Arya23D/code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -154,6 +157,7 @@ practice code daily
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arya23D/code/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Arya23D/code/tree/master/0218-the-skyline-problem) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arya23D/code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arya23D/code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
