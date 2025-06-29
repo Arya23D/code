@@ -171,6 +171,7 @@ practice code daily
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Arya23D/code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arya23D/code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arya23D/code/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
@@ -412,4 +413,8 @@ practice code daily
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arya23D/code/tree/master/0225-implement-stack-using-queues) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arya23D/code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
