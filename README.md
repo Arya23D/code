@@ -175,6 +175,7 @@ practice code daily
 | [0038-count-and-say](https://github.com/Arya23D/code/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Arya23D/code/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/Arya23D/code/tree/master/0868-push-dominoes) |
+| [1078-remove-outermost-parentheses](https://github.com/Arya23D/code/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Arya23D/code/tree/master/1160-letter-tile-possibilities) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -293,6 +294,7 @@ practice code daily
 | [0234-palindrome-linked-list](https://github.com/Arya23D/code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Arya23D/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arya23D/code/tree/master/0503-next-greater-element-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/Arya23D/code/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arya23D/code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arya23D/code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
