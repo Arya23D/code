@@ -89,6 +89,7 @@ practice code daily
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arya23D/code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arya23D/code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arya23D/code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Arya23D/code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Arya23D/code/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arya23D/code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arya23D/code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -131,6 +132,7 @@ practice code daily
 | [1500-count-largest-group](https://github.com/Arya23D/code/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arya23D/code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/Arya23D/code/tree/master/1873-longest-nice-substring) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Arya23D/code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arya23D/code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arya23D/code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arya23D/code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -425,6 +427,7 @@ practice code daily
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arya23D/code/tree/master/0225-implement-stack-using-queues) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Arya23D/code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Trie
 |  |
 | ------- |
