@@ -436,4 +436,8 @@ practice code daily
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arya23D/code/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Arya23D/code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
