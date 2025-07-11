@@ -35,6 +35,7 @@ practice code daily
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arya23D/code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Arya23D/code/tree/master/0070-climbing-stairs) |
@@ -183,6 +184,7 @@ practice code daily
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arya23D/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Arya23D/code/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Arya23D/code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arya23D/code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arya23D/code/tree/master/0038-count-and-say) |
@@ -210,6 +212,7 @@ practice code daily
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arya23D/code/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arya23D/code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Arya23D/code/tree/master/0061-rotate-list) |
