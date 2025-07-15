@@ -56,6 +56,7 @@ practice code daily
 | ------- |
 | [0001-two-sum](https://github.com/Arya23D/code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arya23D/code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Arya23D/code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Arya23D/code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arya23D/code/tree/master/0053-maximum-subarray) |
@@ -216,6 +217,7 @@ practice code daily
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arya23D/code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Arya23D/code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arya23D/code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arya23D/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Arya23D/code/tree/master/0061-rotate-list) |
@@ -238,6 +240,7 @@ practice code daily
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arya23D/code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Arya23D/code/tree/master/0055-jump-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arya23D/code/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arya23D/code/tree/master/2497-maximum-matching-of-players-with-trainers) |
